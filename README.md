@@ -4,7 +4,7 @@ Design-focused product work, experiments, and small project notes.
 
 ## Projects
 
-- [AI Banner Studio](https://ai-banner-studio-eight.vercel.app/) - ComfyUI / ComfyOne banner generation studio. The app is online; generation depends on the OneThingAI GPU instance being running.
+- [AI Banner Studio](https://ai-banner-studio-eight.vercel.app/) - ComfyUI / ComfyOne banner generation studio. The app is online, but generation depends on the OneThingAI GPU instance being available.
 - [Balatro Course](https://wumi159.github.io/balatro-course/) - Balatro-style joker card course and interactive demo.
 - [AI Companion Space](https://ai-companion-space.vercel.app/) - Late-night emotional companion interface.
 
