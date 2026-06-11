@@ -12,6 +12,6 @@ Design-focused product work, experiments, and small project notes.
 
 Last profile maintenance: 2026-06-11
 
-This profile is reviewed every few days for small documentation, visual, and housekeeping updates.
+This profile is reviewed periodically for small documentation, visual, and housekeeping updates.
 
 See [maintenance log](docs/maintenance-log.md).
