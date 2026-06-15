@@ -3,7 +3,8 @@
 ## 2026-06-15
 
 - Checked the profile README and maintenance log for a small public upkeep pass.
-- Updated the maintenance date in the README to keep the profile current.
+- Pulled `origin/main` first, then reviewed the README wording and maintenance log for a small public upkeep pass.
+- Tightened the AI Banner Studio availability sentence in the README for cleaner phrasing.
 
 ## 2026-06-11
 
