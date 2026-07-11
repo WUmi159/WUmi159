@@ -1,6 +1,6 @@
 # WUmi159
 
-Design-focused product work, experiments, and concise project notes.
+Design-focused product work, experiments, and brief project notes.
 
 ## Projects
 
