@@ -10,7 +10,7 @@ Design-focused product work, experiments, and brief project notes.
 
 ## Maintenance
 
-Last profile maintenance: 2026-07-16
+Last profile maintenance: 2026-07-17
 
 This profile is reviewed periodically for small documentation, presentation, and housekeeping updates.
 
